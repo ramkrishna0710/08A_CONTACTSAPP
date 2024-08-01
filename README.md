@@ -2,4 +2,4 @@
 
 ## Screenshot
 
-[click][https://ibb.co/zm69FvR]
+[click](https://ibb.co/zm69FvR)
